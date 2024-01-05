@@ -1,0 +1,33 @@
+.header{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: crimson;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+}
+input{
+    padding: 20px 40px;
+    width: 25%;
+    outline: 0;
+    font-size: 20px;
+    margin: 0 auto;
+
+}
+button{
+    padding: 20px 40px;
+    width: 25%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+ol{
+    margin: 0 auto;
+}
+h1{
+    margin: 0 auto;
+}
