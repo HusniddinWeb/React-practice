@@ -45,6 +45,20 @@ function Header() {
     setEmail(emailInput)
     setParol(parolInput)
   }
+  // --------)
+
+  // (----------
+
+  const [inputVal, setInputVal] = useState('')
+  const [meva, setMeva] = useState([])
+
+  const endInput = (e) =>{
+    setInputVal(e.target.value)
+  }
+
+  const endButton = () =>{
+    setMeva([...meva, inputVal]);
+  }
 
   return (
 
@@ -67,6 +81,16 @@ function Header() {
         <h1>Email: <spam>{email}</spam> </h1>
         <h1>Parol: <spam>{parol}</spam> </h1>
       </form>
+
+      <div className='endBlock'>
+        <input type="text" placeholder='meva nomi' onChange={endInput} />
+        <button onClick={endButton}>add</button>
+        <ol>
+          {meva.map((item, index) => (
+            <li key={index}>{item}</li>
+          ))}
+        </ol>
+      </div>
 
     </div>   
   )
