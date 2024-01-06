@@ -1,7 +1,9 @@
 .header{
-    padding: 100px;
     display: flex;
     justify-content: space-between;
+    background-color: aquamarine;
+    padding: 50px;
+    margin-bottom: 100px;
 }
 
 
