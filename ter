@@ -1,0 +1,23 @@
+[33mcommit 76086d162634456d016e6cde4ea2e6199555b4d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mregister[m[33m)[m
+Author: HusniddinWeb <husniddinshidiyev95@gmail.com>
+Date:   Sat Jan 6 10:03:13 2024 +0500
+
+    register yaratildi
+
+[33mcommit c44059df820e29b00bdb783e4d7ba6ba1065951c[m[33m ([m[1;31morigin/register[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: HusniddinWeb <husniddinshidiyev95@gmail.com>
+Date:   Sat Jan 6 08:31:01 2024 +0500
+
+    yangi input yaratildi
+
+[33mcommit 23b3766d6e5dcb7525f00f1cb84712443bf5e54f[m
+Author: HusniddinWeb <husniddinshidiyev95@gmail.com>
+Date:   Fri Jan 5 16:49:57 2024 +0500
+
+    hodisa o'zgarishi
+
+[33mcommit b5dc5b4c698d53fbade821aea50aa6184b7efccb[m
+Author: HusniddinWeb <husniddinshidiyev95@gmail.com>
+Date:   Fri Jan 5 15:46:13 2024 +0500
+
+    onClick-onChange-onSubmit
